@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array(dizideki_en_buyuk_ve_en_kucuk_elemani_bulan_program)", "array(dizideki_en_buyuk_ve_en_kucuk_elemani_bulan_program)\array(dizideki_en_buyuk_ve_en_kucuk_elemani_bulan_program).csproj", "{C62B99DB-FA77-437C-BD18-F9D2509A0FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62B99DB-FA77-437C-BD18-F9D2509A0FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62B99DB-FA77-437C-BD18-F9D2509A0FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62B99DB-FA77-437C-BD18-F9D2509A0FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62B99DB-FA77-437C-BD18-F9D2509A0FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A658094-F812-431C-B260-05A57A2EB6C3}
+	EndGlobalSection
+EndGlobal
